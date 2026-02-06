@@ -1,4 +1,4 @@
 # hello-world
-github training
+github training to download pyFAI tutorials
 
 Ulrich, getting started.
